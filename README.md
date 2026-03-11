@@ -1,4 +1,5 @@
 Wolfscope
+
 copyright (c) 2019-26 Robin Parmar. MIT license.
  
 **DESCRIPTION**
@@ -24,11 +25,15 @@ Don't expect high performance... lag and glitch are the whole idea!
 **CONTROLS**
 
 q w e r		switch colour components: reset RG RB GB
+
 a s d   	bright: reset - +
+
 z x     	burn: reset random
  
 p [ ]   	alpha:   off, hi, low
+
 j k l   	refract: toggle - +
+
 m < >   	mono:    toggle -  +
  
 spacebar	disables transforms
