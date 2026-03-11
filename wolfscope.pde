@@ -2,6 +2,14 @@
     Wolfscope
  
 	copyright (c) 2019-26 Robin Parmar. MIT license.
+
+CODE REPOSITORY
+ 
+	https://github.com/robinparmar/processing_wolfscope/
+
+DEMO VIDEO
+
+	https://youtu.be/TWduxDEMniY
  
 DESCRIPTION
 
